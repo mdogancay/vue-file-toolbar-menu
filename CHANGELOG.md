@@ -1,3 +1,7 @@
+## v1.1.5
+
+- Added external image support for the button component
+
 ## v1.1.4
 
 - Added icon_color for the button component

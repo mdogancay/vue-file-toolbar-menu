@@ -78,6 +78,13 @@
       font-size: var(--bar-button-icon-size, 24px);
       margin: var(--bar-button-icon-margin);
     }
+    & > .image {
+      border: none;
+      outline: none;      
+      width: var(--bar-button-icon-size, 24px);
+      height: var(--bar-button-icon-size, 24px);
+      margin: var(--bar-button-icon-margin);
+    }
     & > .chevron {
       font-display: block;
       width: 1em;
