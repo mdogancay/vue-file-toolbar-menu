@@ -3,7 +3,7 @@
     @mousedown="(e) => e.preventDefault()"
     @click="(e) => item.click ? item.click(e) : e.stopPropagation()">
     
-    <span v-if="item.icon" class="material-icons icon">{{ item.icon }}</span>
+    <span v-if="item.icon" :style="'color:'+item.icon_color" class="material-icons icon">{{ item.icon }}</span>
     <span v-if="item.emoji" class="emoji">{{ get_emoji(item.emoji) }}</span>
     <span v-if="item.text" class="label">{{ item.text }}</span>
     <span v-if="item.html" class="label" v-html="item.html"></span>

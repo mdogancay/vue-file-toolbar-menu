@@ -1,12 +1,13 @@
+orjinali forked from motla/vue-file-toolbar-menu
 <div align="center">
-  <img src="https://github.com/motla/vue-file-toolbar-menu/raw/master/img/logo.png" alt="vue-file-toolbar-menu">
+  <img src="https://github.com/mdogancay/vue-file-toolbar-menu/raw/master/img/logo.png" alt="vue-file-toolbar-menu">
 </div>
 <div align="center">
-  <img src="https://github.com/motla/vue-file-toolbar-menu/raw/master/img/preview.png">
+  <img src="https://github.com/mdogancay/vue-file-toolbar-menu/raw/master/img/preview.png">
 </div>
 
 ## Features
-### :rocket: [See live demo](https://motla.github.io/vue-file-toolbar-menu)
+### :rocket: [See live demo](https://mdogancay.github.io/vue-file-toolbar-menu)
 - Reactive content is stored in Vue.js computed/data fields, not in template
 - Easy styling
 - Add your own custom components for menus and buttons
@@ -15,7 +16,7 @@
 - Touch-device compatible
 - Easy multi-language implementation ([vue-i18n](https://github.com/kazupon/vue-i18n))
 
-###### :speech_balloon: If you plan to build a document editor, also check out [vue-document-editor](https://github.com/motla/vue-document-editor)
+###### :speech_balloon: If you plan to build a document editor, also check out [vue-document-editor](https://github.com/mdogancay/vue-document-editor)
 
 ## Installation
 In your Vue.js project:
@@ -63,10 +64,10 @@ export default {
 ```
 Should render this:
 
-<img src="https://github.com/motla/vue-file-toolbar-menu/raw/master/img/basic-example.png">
+<img src="https://github.com/mdogancay/vue-file-toolbar-menu/raw/master/img/basic-example.png">
 
 ## Complete example
-See the [Demo.vue](src/Demo/Demo.vue) file corresponding to the [live demo](https://motla.github.io/vue-file-toolbar-menu). **:blue_book: Also read the [API](API.md)**.
+See the [Demo.vue](src/Demo/Demo.vue) file corresponding to the [live demo](https://mdogancay.github.io/vue-file-toolbar-menu). **:blue_book: Also read the [API](API.md)**.
 
 ## Styling
 
@@ -80,7 +81,7 @@ Styling can be done either by writing CSS variables or by overloading CSS proper
 
 - #### Docs-like theme:
 
-<img src="https://github.com/motla/vue-file-toolbar-menu/raw/master/img/docs-theme.png">
+<img src="https://github.com/mdogancay/vue-file-toolbar-menu/raw/master/img/docs-theme.png">
 <details><summary>View specific CSS variables for this theme</summary>
 
 ```css
@@ -120,7 +121,7 @@ Styling can be done either by writing CSS variables or by overloading CSS proper
 
 - #### macOS-like theme:
 ###### :microscope: (CSS backdrop filter is still experimental!)
-<img src="https://github.com/motla/vue-file-toolbar-menu/raw/master/img/macos-theme.png">
+<img src="https://github.com/mdogancay/vue-file-toolbar-menu/raw/master/img/macos-theme.png">
 <details>
 <summary>View specific CSS variables for this theme</summary>
 
@@ -173,4 +174,4 @@ Styling can be done either by writing CSS variables or by overloading CSS proper
 - [vue-color](https://github.com/xiaokaike/vue-color) by xiaokaike, MIT License
 
 ## Licensing
-Copyright (c) 2020 Romain Lamothe, [MIT License](LICENSE)
+Copyright (c) 2021 Murat Doğançay, [MIT License](LICENSE)

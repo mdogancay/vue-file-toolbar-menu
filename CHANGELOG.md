@@ -1,3 +1,7 @@
+## v1.1.4
+
+- Added icon_color for the button component
+
 ## v1.1.3
 
 - Bug fix "Color picker turned off once clicked" (https://github.com/motla/vue-file-toolbar-menu/issues/4)
