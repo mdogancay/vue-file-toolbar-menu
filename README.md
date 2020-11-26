@@ -1,4 +1,4 @@
-orjinali forked from motla/vue-file-toolbar-menu
+originally forked from motla/vue-file-toolbar-menu
 <div align="center">
   <img src="https://github.com/mdogancay/vue-file-toolbar-menu/raw/master/img/logo.png" alt="vue-file-toolbar-menu">
 </div>
@@ -15,8 +15,6 @@ orjinali forked from motla/vue-file-toolbar-menu
 - Hotkey support
 - Touch-device compatible
 - Easy multi-language implementation ([vue-i18n](https://github.com/kazupon/vue-i18n))
-
-###### :speech_balloon: If you plan to build a document editor, also check out [vue-document-editor](https://github.com/mdogancay/vue-document-editor)
 
 ## Installation
 In your Vue.js project:
